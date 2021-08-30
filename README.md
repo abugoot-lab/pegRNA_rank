@@ -5,15 +5,14 @@ The code is structured to take input from a user for two arguments (First: Targe
 
 # Setup Instructions
 Prerequisites: Make sure you have Python>=3.6 and PyTorch>=1.5 installed. Then, install dependencies with:
-Then run
 ```
 pip install -r requirements.txt
 
 ```
 
-Next, either clone and add the base directory of the repository to your PYTHONPATH
+Next, clone and add the base directory of the repository to your PYTHONPATH
 
-Then run
+Then run:
 ```
 python rank.py
 ```
