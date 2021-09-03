@@ -1,5 +1,5 @@
 # pegRNA_rank
-Deep learning MLP model to rank pegRNA sequence
+Deep learning MLP model to rank atgRNA sequence
 
 User Instruction:
 1. When prompted by the program, the user has to input a target region of interest (amplicon) that they would like to perform insertion first. 
