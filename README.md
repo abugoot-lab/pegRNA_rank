@@ -2,7 +2,7 @@
 Deep learning MLP model to rank atgRNA sequence
 
 # User Instructions:
-1. When prompted by the program, the user has to input a target region of interest (amplicon) that they would like to perform insertion. 
+1. When prompted by the program, the user has to input a target region of interest (amplicon) that they would like to perform insertion. (Larger than 300bp)
 2. Then the program will ask whether user would like to specificy a custom insertion sequence, that the user can respond by "Y" or "N" (representing yes or no respectively). 
 3. If the user select yes, then the user will be asked to input a customized insertion sequence.
 4. Otherwise, the program will automatically run by using the default insertion sequences in the database
